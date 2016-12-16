@@ -1,0 +1,112 @@
+.zj{
+	width: 1132px;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+.zj1,.zj2{
+	float: left;
+}
+.zj-box1,.zj-box2{
+	float: left;
+}
+.zj .zj1 .zj1-box{
+	width: 860px;
+	height: 600px;
+	border-bottom: 1px dotted #DDDDDD;
+	margin-bottom: 10px;
+}
+.zj .zj1 .zj1-box .zj-box1{
+	width: 118px;
+}
+.zj .zj1 .zj1-box .zj-box1 div{
+	text-align: center;
+}
+.zj .zj1 .zj1-box .zj-box1 .zj1-box5{
+    text-align: right;
+}
+.zj .zj1 .zj1-box .zj-box1 .zj1-box6{
+    text-align: right;
+}
+.zj .zj1 .zj1-box .zj-box1 .zj1-box7{
+    text-align: right;
+}
+.zj .zj1 .zj1-box .zj-box1 .zj1-box1{
+	text-align: center;
+	width: 118px;
+	height: 64px;
+	border-top-right-radius:6px;
+	border-top-left-radius:6px;
+	background-color:#F77B6F;
+	line-height: 64px;
+}
+.zj .zj1 .zj1-box .zj-box1 .zj1-box2{
+	text-align: center;
+	width: 118px;
+	background-color: #F6F5F0;
+	height: 42px;
+	line-height: 42px;
+}
+.zj .zj1 .zj1-box .zj-box1 .zj1-box3{
+	height: 50px;
+	width: 118px;
+	background-color: #EFEEE9;
+	border-top-right-radius:6px;
+	border-top-left-radius:6px;
+	margin-top: 20px;
+}
+.zj .zj1 .zj1-box .zj-box1 .zj1-box4{
+	height: 38px;
+	width: 118px;
+	line-height: 38px;
+	text-align: center;
+	background-color: #F6F5F0;
+}
+.zj .zj1 .zj1-box .zj-box1 .zj1-box5{
+	margin-top: 140px;
+	margin-bottom: 34px;
+}
+.zj .zj1 .zj1-box .zj-box1 .zj1-box5 .tttt{
+	color: #F98F6F;
+}
+.zj .zj1 .zj1-box .zj-box1 .zj1-box5 a{
+	color: #797979;
+
+}
+.zj .zj1 .zj1-box .zj-box1 .zj1-box6 a{
+	color: #797979;
+	font-size: 13px;
+}
+.zj .zj1 .zj1-box .zj-box1 .zj1-box6 a:hover{
+	color: #F98F6F;
+}
+.zj .zj1 .zj1-box .zj-box1 .zj1-box7{
+	margin-top: 26px;
+}
+.zj .zj1 .zj1-box .zj-box1 .zj1-box7 p{
+	color: #F98F6F;
+	font-size: 13px;
+}
+.zj .zj1 .zj1-box .zj-box2 div{
+	width: 702px;
+	margin-left: 30px;
+}
+.zj .zj1 .zj1-box .zj-box2 .zj-bg1{
+	height: 330px;
+	background: url(../images/img71.jpg) no-repeat;
+	background-size: 100% 100%;
+}
+.zj .zj1 .zj1-box .zj-box2 .zj-bg2 a{
+	width: 702px;
+	font-size: 25px;
+    color: #F77B6F;
+    font-family: 'Fjalla One', sans-serif; 
+}
+.zj .zj1 .zj1-box .zj-box2 .zj-bg2 a:hover{
+	text-decoration:underline;
+}
+.zj .zj1 .zj1-box .zj-box2 .zj-bg4 button{
+	width: 140px;
+	height: 35px;
+	background-color: #EC6459;
+	color: #FFFFFA;
+}

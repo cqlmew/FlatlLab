@@ -1,0 +1,64 @@
+.foot{
+	height: 312px;
+	background-color: #475268;
+}
+.foot-box{
+	width: 1132px;
+	margin:0 auto;
+	padding-top: 30px;
+	color: #E2E3E7;
+}
+.foot .foot-box .f-box1 li{
+	margin-top: 5px;
+}
+.foot .foot-box .f-box1 li a{
+	color: #D86D6A;
+}
+.foot .foot-box .f-box2 li{
+	margin-top: 5px;
+}
+.foot .foot-box .f-box2 li div .f-boxtt{
+	color: #475268;
+	margin-top: 2px;
+	font-size: 12px;
+	
+}
+.foot .foot-box .f-box2 li div .f-boxtt:hover {
+	color: #D86D6A;
+}
+.f-box1,.f-box2,.f-box3{
+	float: left;
+}
+.f-box2 li a,.f-boxt{
+	float: left;
+}
+.f-box2{
+	margin-left: 100px;
+}
+.foot .foot-box .f-box3{
+	margin-left: 268px;
+	width: 256px;
+}
+.foot .foot-box .f-box3 li{
+	width: 52px;
+	height: 52px;
+	background-color:#505B71;
+	float: left;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+.foot .foot-box .f-box3 .f-box31{
+	width: 250px;
+	background-color:#475268;
+	margin-top: 0px;
+}
+.foot .foot-box .f-box3 .f-box31:hover{
+	background-color:#475268;
+}
+.foot .foot-box .f-box3 li a{
+	display: block;
+	margin: 16px;
+}
+.foot .foot-box .f-box3 li:hover{
+	background-color: #F77B6F;
+}

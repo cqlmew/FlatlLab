@@ -1,0 +1,107 @@
+.header{
+	width: 1132px;
+	height: 102px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.h-boxz{
+	width: 112px;
+	height: 30px;
+}
+.h-boxz a{
+	color:#5E5E5E;
+	float: left;
+	font-size: 30px;
+}
+.header .h-boxz .h-boxz2{
+	color:#F25F6A;
+}
+.h-boxy{
+	margin-left: 396px;
+	font-size: 14px;
+}
+.header li:hover {
+	border-radius: 5px;
+	background-color:rgb(247,123,111);
+}
+.header li:hover a{
+	color:rgb(250,222,232);
+}
+.h-box1{
+	height: 43px;
+	width: 70px;
+	text-align: center;
+	line-height: 43px;
+	margin-right: 1px;
+	border-radius: 5px;
+	background-color:rgb(247,123,111);
+}
+.h-box2{
+	height: 43px;
+	width: 70px;
+	text-align: center;
+	line-height: 43px;
+	margin-right: 1px;
+}
+.h-box3{
+	height: 43px;
+	width: 76px;
+	text-align: center;
+	line-height: 43px;
+	margin-right: 1px;
+}
+.h-box4{
+	height: 43px;
+	width: 70px;
+	text-align: center;
+	line-height: 43px;
+	margin-right: 1px;
+}
+.h-box5{
+	height: 43px;
+	width: 84px;
+	text-align: center;
+	line-height: 43px;
+	margin-right: 1px;
+}
+.h-box6{
+	height: 43px;
+	width: 64px;
+	text-align: center;
+	line-height: 43px;
+	margin-right: 1px;
+}
+.h-box7{
+	height: 43px;
+	width: 60px;
+	text-align: center;
+	line-height: 43px;
+	
+	margin-right: 1px;
+}
+.h-box8{
+	height: 43px;
+	width: 80px;
+	text-align: center;
+	line-height: 43px;
+	
+	margin-right: 1px;
+}
+
+.header li{
+	float: left;
+}
+.header li a{
+	color: #B5B5B5;
+}
+.header ul .h-box1 a{
+	color:rgb(250,222,232)
+}
+.header .search{
+    width: 42px;
+	height: 34px;
+	background: url(../images/search-icon.jpg) no-repeat;
+}
+.h-boxz,.h-boxy,.search{
+	float: left;
+}
